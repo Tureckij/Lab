@@ -19,7 +19,7 @@ public class PollPuzzleOne {
             }
             System.out.println("");
             x = x + 1;
-
+            x = x + 1;
         }
 
     }
